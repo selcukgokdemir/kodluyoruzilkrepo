@@ -21,7 +21,7 @@ Pull requestler kabul edilir.Büyük değişiklikler için , lütfen önce neyi 
 
 # License
 
-[MIT](mit license adresi olacaktı)
+[MIT](http://google.com)
 
 ![images](images/markdown.png)
 projenin resmini koyun kısmı tam anlamadım ama soyle bir şey mi istediniz
